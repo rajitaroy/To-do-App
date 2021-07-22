@@ -18,7 +18,6 @@ To check RestAPI migration table goto: `http://localhost:8000/api`
 `npm install`  
 `npm start`: ReactJS runs at `localhost:3000`  
 
-###### Note to self: `localhost:8000/admin` login: rajitaroy password: 123
 
 #### Application runs at `http://localhost:3000`
                                                          
