@@ -8,6 +8,7 @@ This application needs to run simultaneously for backend and frontend.
 To check RestAPI migration table goto: `http://localhost:8000/api`  
 
 3. On another shell, type:  
+`cd frontend`  
 `npm install`  
 `npm start`: ReactJS runs at `localhost:3000`  
 
