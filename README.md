@@ -4,6 +4,8 @@
 
 This application needs to run simultaneously for backend and frontend.  
 
+## Steps to run:  
+
 1. `cd To-do-App`  
 
 2. On one shell, activate your virtual environment and type  
