@@ -1,7 +1,3 @@
-# Demo  
-![final_60f96a3a5dbd36009beba280_14003](https://user-images.githubusercontent.com/68264150/126642561-5a86b06e-8eb7-4f8c-81a2-dea0a095f2fe.gif)
-
-
 This application needs to run simultaneously for backend and frontend.  
 
 ## Steps to run:  
